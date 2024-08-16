@@ -1,5 +1,7 @@
 <?php
 include_once __DIR__ . '/../helpers/url.php';
+include_once __DIR__ . '/../data/categories.php';
+include_once __DIR__ . '/../data/posts.php';
 ?>
 
 <!doctype html>

@@ -1,6 +1,7 @@
 <?php
 include_once("templates/header.php");
 
+print_r($posts)
 ?>
 
     <body>
